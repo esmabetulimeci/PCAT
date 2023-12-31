@@ -1,0 +1,21 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error : no test specifield\" && exit 1 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esmabetulimeci/PCAT"
+  },
+  "keywords": [
+    "photo"
+  ],
+  "author": "Esma Uzun",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.1.1"
+  }
+}
